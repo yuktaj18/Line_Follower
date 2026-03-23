@@ -1,0 +1,12 @@
+../drivers/Src/stm32f103xx_gpio_driver.c:13:6:GPIO_PeriClockControl	12
+../drivers/Src/stm32f103xx_gpio_driver.c:44:6:PwrEn	1
+../drivers/Src/stm32f103xx_gpio_driver.c:52:6:GPIO_Init	18
+../drivers/Src/stm32f103xx_gpio_driver.c:156:6:GPIO_DeInit	6
+../drivers/Src/stm32f103xx_gpio_driver.c:177:9:GPIO_ReadFromInputPin	1
+../drivers/Src/stm32f103xx_gpio_driver.c:185:10:GPIO_ReadFromInputPort	1
+../drivers/Src/stm32f103xx_gpio_driver.c:192:6:GPIO_WriteToOutputPin	2
+../drivers/Src/stm32f103xx_gpio_driver.c:201:6:GPIO_WriteToOutputPort	1
+../drivers/Src/stm32f103xx_gpio_driver.c:206:6:GPIO_TogglePin	1
+../drivers/Src/stm32f103xx_gpio_driver.c:213:6:GPIO_IRQInterruptConfig	8
+../drivers/Src/stm32f103xx_gpio_driver.c:249:6:GPIO_IRQPriorityConfig	1
+../drivers/Src/stm32f103xx_gpio_driver.c:262:6:GPIO_IRQHandling	2
