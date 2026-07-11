@@ -6,12 +6,12 @@ This project implements a two-sensor line follower robot using the STM32 Nucleo-
 The project is implemented using register-level peripheral drivers without relying on STM32 HAL libraries, providing a deeper understanding of embedded systems programming and STM32 peripheral configuration.
 
 ## Hardware Components
-STM32 Nucleo-F103RB
-L298N Dual H-Bridge Motor Driver
-Two IR Reflective Sensors
-Two DC Geared Motors
-Robot Chassis
-Lithium-Ion Rechargeable Battery Pack
-Wheels and Caster Wheel
+- STM32 Nucleo-F103RB
+- L298N Dual H-Bridge Motor Driver
+- Two IR Reflective Sensors
+- Two DC Geared Motors
+- Robot Chassis
+- Lithium-Ion Rechargeable Battery Pack
+- Wheels and Caster Wheel
 
 ## Video Demo
