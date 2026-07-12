@@ -17,5 +17,5 @@ The project is implemented using register-level peripheral drivers without relyi
 ## Video Demo
 
 <p align="center">
-  <img src="media/LineFollower (1)(1).gif" width="700">
+  <img src="media/LineFollower (1) (1).gif" width="700">
 </p>
