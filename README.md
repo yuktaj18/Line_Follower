@@ -15,7 +15,7 @@ The project is implemented using register-level peripheral drivers without relyi
 - Wheels and Caster Wheel
 
 ## Video Demo
-Watch the full video here.  [🎥 Video](https://github.com/user-attachments/assets/54fc14a5-6183-47e0-9a7a-f529a35130f1) 
+Watch the full video here.  [🎥 Video](https://github.com/user-attachments/assets/38553fbb-500d-42b1-a5f7-8cb66b5c4380) 
 <p align="center">
   <img src="media/LineFollower (1) (1).gif" width="700">
 </p>
